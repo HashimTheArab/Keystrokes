@@ -1,0 +1,20 @@
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\bin\Debug\Keystrokes.exe.config
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\bin\Debug\Keystrokes.exe
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\bin\Debug\Keystrokes.pdb
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\obj\Debug\Keystrokes.csprojAssemblyReference.cache
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\obj\Debug\Keystrokes.Form1.resources
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\obj\Debug\Keystrokes.Properties.Resources.resources
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\obj\Debug\Keystrokes.csproj.GenerateResource.cache
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\obj\Debug\Keystrokes.csproj.CoreCompileInputs.cache
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\obj\Debug\Keystrokes.exe
+C:\Users\Hashim\source\repos\Keystrokes\Keystrokes\obj\Debug\Keystrokes.pdb
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\bin\Debug\Keystrokes.exe.config
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\bin\Debug\Keystrokes.exe
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\bin\Debug\Keystrokes.pdb
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\obj\Debug\Keystrokes.Form1.resources
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\obj\Debug\Keystrokes.Properties.Resources.resources
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\obj\Debug\Keystrokes.csproj.GenerateResource.cache
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\obj\Debug\Keystrokes.csproj.CoreCompileInputs.cache
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\obj\Debug\Keystrokes.exe
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\obj\Debug\Keystrokes.pdb
+Z:\Hashim\Desktop\Coding\Visual Studio\Keystrokes\Keystrokes\obj\Debug\Keystrokes.csprojAssemblyReference.cache
